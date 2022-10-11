@@ -24,7 +24,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Rapidfire  
+## Icebreaker tips
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on interesting projects i would love to share later
@@ -33,7 +33,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🌱 I’m currently learning Kubernetes  
   
 
-- ❓ Ask me about anything related to C#, .NET and other related technologies, anyway you can email me whenever at ope.ajayi@hotmail.com  
+- ❓ Ask me about anything related to C#, .NET and other related technologies, you can email me whenever at ope.ajayi@hotmail.com  
   
 
 - ⚡ Fun fact:  When i am off work, I save the City  
